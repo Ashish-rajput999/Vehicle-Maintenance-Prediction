@@ -5,3 +5,7 @@ joblib
 streamlit
 matplotlib
 seaborn
+chromadb
+sentence-transformers
+langchain
+langchain-community
